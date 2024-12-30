@@ -1,0 +1,1 @@
+to send the email: https://www.digitalocean.com/community/tutorials/javamail-example-send-mail-in-java-smtp
